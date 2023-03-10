@@ -1,2 +1,2 @@
 # chattab_backend
-https://chattab.herokuapp.com/
+https://chattab.onrender.com/
